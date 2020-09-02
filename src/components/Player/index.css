@@ -1,0 +1,12 @@
+* {
+    background-color: #2C302E;
+    padding: 5px;
+    font-family: 'Roboto' sans-serif;
+}
+.player {
+    height: 15rem;
+    width: 15rem;
+    background-color: #1F7A8C;
+    border-radius: 50%;
+    border: 5px solid black;
+}
